@@ -1,0 +1,11 @@
+h3{
+    color: crimson;
+}
+h1{
+    font-style: italic;
+    background-color: crimson;
+}
+hr{
+    border-color: brown;
+    border-style: inset;
+}
